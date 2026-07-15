@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://myheritagelogin.readthedocs.io/en/latest/
