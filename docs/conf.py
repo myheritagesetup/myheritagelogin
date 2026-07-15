@@ -1,5 +1,5 @@
-project = 'african ancestry dna'
-author = 'african ancestry dna'
+project = 'myheritage'
+author = 'myheritage'
 release = '1.0'
 
 # Extensions
